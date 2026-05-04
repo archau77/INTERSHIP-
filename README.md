@@ -12,3 +12,7 @@ Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow/PyTorch, YO
 - Model deployment using Streamlit
 - YOLO object detection  
 - NLP tasks like tokenization, sentiment analysis.
+
+## Srishti Internship Projects
+Internship projects completed at Srishti Innovative, Technopark.
+
